@@ -16,6 +16,8 @@ local.properties
 .settings/
 .loadpath
 
+.vs
+
 *.DotSettings
 *.ncrunchsolution
 
@@ -32,7 +34,7 @@ local.properties
 .buildpath
 
 
-NuGetBuild*
+nugets*
 
 
 #################
